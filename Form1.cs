@@ -22,8 +22,7 @@ namespace 一键启动
             InitializeComponent();
             LoadSoftwarePaths(); // 主窗体构造函数，当窗体创建时会调用
             listView1.SmallImageList = imageList; // 关联ImageList
-                                                  
-            this.Load += new EventHandler(Form1_Load);// 在窗体加载时检查参数
+           // this.Load += new EventHandler(Form1_Load);// 在窗体加载时检查参数
         }
 
 
@@ -95,6 +94,7 @@ namespace 一键启动
 
                 // 自动触发startAllButton的点击事件
                 button2_Click(this, EventArgs.Empty);
+                Application.Exit();
             }
         }
 
@@ -121,6 +121,8 @@ namespace 一键启动
                     }
                 }
             }
+
+            Application.Exit();
 
         }
 
