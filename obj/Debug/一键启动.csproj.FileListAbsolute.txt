@@ -1,0 +1,9 @@
+D:\MyApp\onetoall\一键启动\bin\Debug\一键启动.exe
+D:\MyApp\onetoall\一键启动\bin\Debug\一键启动.pdb
+D:\MyApp\onetoall\一键启动\obj\Debug\一键启动.csproj.AssemblyReference.cache
+D:\MyApp\onetoall\一键启动\obj\Debug\一键启动.Form1.resources
+D:\MyApp\onetoall\一键启动\obj\Debug\一键启动.Properties.Resources.resources
+D:\MyApp\onetoall\一键启动\obj\Debug\一键启动.csproj.GenerateResource.cache
+D:\MyApp\onetoall\一键启动\obj\Debug\一键启动.csproj.CoreCompileInputs.cache
+D:\MyApp\onetoall\一键启动\obj\Debug\一键启动.exe
+D:\MyApp\onetoall\一键启动\obj\Debug\一键启动.pdb
